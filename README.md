@@ -1,4 +1,4 @@
-
+Приложение доступно по ссылке: https://getgithub-info.vercel.app/ 
 
 ## Технологии FRONTEND
 - TypeScript
@@ -33,5 +33,3 @@ npm run dev
 ```
 
 Откройте  http://localhost:5173/ в вашем браузере, чтобы просмотреть приложение.
-
-Приложение доступно по ссылке: https://getgithub-info.vercel.app/ 
